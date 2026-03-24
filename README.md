@@ -1,7 +1,8 @@
 ﻿# Analysis-Practice
 This repository is used to showcase and store the data analysis performed during learning new skills and appling it on real datasets.
-1)Chocolate dataset:
-<br>
+<ol>
+ <li>Chocolate dataset:
+</ol>
 <ul>
  <li>Perform data Cleaning.
 <li>Use excel tools and formulas to preprocess data and create features.
